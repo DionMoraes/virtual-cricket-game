@@ -1,0 +1,8 @@
+﻿  game.cpp
+F:\c and c++  (internshala)\cricket game application project\Project Solution\virtual-cricket-game\game.cpp(172,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\c and c++  (internshala)\cricket game application project\Project Solution\virtual-cricket-game\game.cpp(283,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  team.cpp
+  virtual-cricket-game.cpp
+  Generating Code...
+  Virtual Cricket Game.vcxproj -> C:\Users\Dion\Desktop\projects\C++\Virtual Cricket Game\Virtual Cricket Game\Debug\Virtual Cricket Game.exe
