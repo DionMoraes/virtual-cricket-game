@@ -35,6 +35,8 @@ A Cricket game application
 ![image](https://user-images.githubusercontent.com/91892099/225730739-86fbbd42-bf1a-41fd-8f2d-5d737469dfa2.png)
 
 -Game Ends
+
+
 ![image](https://user-images.githubusercontent.com/91892099/225730838-4e64cd31-df34-4c0a-a3ed-7ff9e17d025f.png)
 
 
